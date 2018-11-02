@@ -3,6 +3,9 @@
  **/
 
 /* Add in the Google Fonts of your choice */
+.container {
+    background-color: blueviolet;
+}
 
 .thought1 {
     font-family: 'Poor Story', cursive;
